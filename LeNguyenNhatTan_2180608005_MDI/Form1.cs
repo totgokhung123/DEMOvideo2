@@ -74,7 +74,12 @@ namespace LeNguyenNhatTan_2180608005_MDI
         {
            
         }
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+            /// ối dồi ôi
+        }
+        //ưerqrqwerqwfewfqưerqwer
         //ưerqrqwerqwfewf
-        ///ewqoroewqreqwofweqokf
     }
 }
